@@ -1,4 +1,4 @@
-# Machine-Learning-Tutorial
+# Chapter2_Types of Machine Learning Systems
 in this tutorial I explain:
     What is Machine Learning?
     Why use Machine Learning?
